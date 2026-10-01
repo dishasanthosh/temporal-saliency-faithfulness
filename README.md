@@ -339,8 +339,8 @@ This project contributes:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/dishasanthosh/temporal-saliency-faithfulness
+cd temporal-saliency-faithfulness
 ```
 
 ### 2. Create an environment
